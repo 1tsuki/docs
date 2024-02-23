@@ -42,7 +42,7 @@ Our minimal recommendation is:
 - transparent 192x192 icon (PWA Manifest icon)
 - transparent 512x512 icon with `purpose: 'any'` (PWA Manifest icon)
 - white 512x512 icon with `purpose: 'maskable'` (PWA Manifest icon): background color can be customized to your needs
-- white 180x180 icon for iOS/MacOS (html head link: `<link rel="apple-touch-icon" href="/apple-touch-icon.png">`): background color can be customized to your needs
+- white 180x180 icon for iOS/MacOS (html head link: `<link rel="apple-touch-icon" href="/apple-touch-icon-180x180.png">`): background color can be customized to your needs
 
 ### Preset Minimal <Badge type="danger" text="Deprecated from v0.1.0" />
 
